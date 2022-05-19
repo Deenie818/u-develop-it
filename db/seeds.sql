@@ -9,4 +9,6 @@ VALUES
   ('Edward', 'Bellamy', 0),
   ('Montague', 'Summers', 1),
   ('Octavia', 'Butler', 1),
+
   ('Unica', 'Zurn', 1)
+

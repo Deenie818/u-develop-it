@@ -2,6 +2,7 @@
 // e.g., inputCheck(object, 'prop1', 'prop2', 'etc')
 
 module.exports = function(obj, ...props) {
+
     const errors = [];
   
     props.forEach((prop) => {
@@ -19,3 +20,4 @@ module.exports = function(obj, ...props) {
     
     return null;
   };
+
