@@ -14,4 +14,8 @@ test('inputCheck() returns an object when a property is missing', () => {
       error: expect.stringContaining('No occupation specified')
     })
   );
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> develop
